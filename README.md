@@ -4,9 +4,7 @@ Generative model for Pokemons
 
 ## Authors
 
-Contributors names and contact info
-
-ex. Kudrevatyh Pavel
+Kudrevatyh Pavel
 
 ## Version History
 * 0.1
