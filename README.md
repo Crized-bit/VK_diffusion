@@ -13,4 +13,4 @@ Kudrevatyh Pavel
 
 ## Used articles
 * [DDPM article](https://arxiv.org/abs/2006.11239)
-* [New noise sceduler](https://arxiv.org/abs/2305.08891)
+* [New noise sceduler + V-loss idea](https://arxiv.org/abs/2305.08891)
